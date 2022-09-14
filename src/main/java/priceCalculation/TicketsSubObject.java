@@ -10,4 +10,13 @@ public class TicketsSubObject {
     private Double baggagePrice;
     private int baggageCount;
 
+    public TicketsSubObject(TicketTypes type, Double price, int count) {
+        this.types = type;
+        this.baggagePrice = price;
+        this.baggageCount = count;
+    }
+
+    public TicketsSubObject() {
+
+    }
 }

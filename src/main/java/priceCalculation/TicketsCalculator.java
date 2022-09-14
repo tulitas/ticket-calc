@@ -45,6 +45,6 @@ public class TicketsCalculator {
                 + "Adult baggage ticket price is: " + adultBaggageTicketPriceOneWay + "\n"
                 + "Child ticket price is: " + childTicketPriceOneWay + "\n"
                 + "Child baggege ticket price is: " + childBaggageTicketPriceOneWay + "\n"
-        + "Summ by all tickets is: " + summ);
+                + "Summ by all tickets is: " + summ);
     }
 }
